@@ -1,0 +1,5 @@
+patientId, observationId, observationDate, observationType, observationValue 
+mrn001, o1, 2015-01-23, BODY_TEMP, 37.5 
+mrn001, o1, 2015-01-21, BODY_TEMP, 37.0
+mrn001, o1, 2015-01-22, BODY_TEMP, 36.8
+mrn001, o1, 2015-01-25, BODY_TEMP, 39.0
