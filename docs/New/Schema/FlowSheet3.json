@@ -1,0 +1,44 @@
+{
+  "extension" : [
+    {
+      "valueDate" : "2000-01-01T01:01:01.1000000",
+      "url" : "http://ease.mayo.edu/#LastUpdateDtTm"
+    },
+    {
+      "valueCodeableConcept" : {
+        "text" : "FlowSheet",
+        "coding" : [
+          {
+            "display" : "FlowSheet",
+            "code" : 1001
+          }
+        ]
+      },
+      "url" : "http://ease.mayo.edu/#Source"
+    }
+  ],
+  "resourceType" : "Observation",
+  "subject" : {
+    "reference" : "Patient/1234567"
+  },
+  "status" : "final",
+  "name" : {
+    "text" : "PULSE RATE/MIN",
+    "coding" : [
+      {
+        "display" : "Pulse Rate/min-ILW-XCNCPT",
+        "code" : "PULSE RATE/MIN"
+      }
+    ]
+  },
+  "valueQuantity" : {
+    "value" : 80,
+    "units" : "/MIN"
+  },
+  "identifier" : {
+    "use" : "official",
+    "value" : "123_1234567_123456789_VITAL SIGNS._6"
+  },
+  "appliesDate" : "2000-01-01T01:01:01.0000000",
+  "issued" : "2000-01-01T01:01:01-01:00"
+}

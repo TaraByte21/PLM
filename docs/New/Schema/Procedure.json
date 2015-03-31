@@ -1,0 +1,57 @@
+{
+  "performer" : [
+    {
+      "person" : {
+        "reference" : "Practitioner/12345678",
+        "display" : "surgeon, surgeon surgeon"
+      }
+    }
+  ],
+  "resourceType" : "Procedure",
+  "date" : {
+    "end" : "2000-01-01T01:01:01.0000000",
+    "start" : "2000-01-01T02:02:02.0000000"
+  },
+  "subject" : {
+    "reference" : "Patient/1234567"
+  },
+  "report" : [
+    {
+      "display" : "XX"
+    }
+  ],
+  "outcome" : "Z",
+  "identifier" : [
+    {
+      "use" : "official",
+      "value" : "123_1234567_12345678-1"
+    }
+  ],
+  "bodySite" : [
+    {
+      "coding" : [
+        {
+          "display" : "Chest-- 2 Views",
+          "code" : 01234
+        }
+      ]
+    }
+  ],
+  "indication" : [
+    {
+      "coding" : [
+        {
+          "display" : "cough, SOB"
+        }
+      ]
+    }
+  ],
+  "type" : {
+    "coding" : [
+      {
+        "display" : "RADIOLOGY",
+        "code" : 1234
+      }
+    ]
+  }
+}
