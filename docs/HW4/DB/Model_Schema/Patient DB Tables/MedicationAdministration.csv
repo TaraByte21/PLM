@@ -1,0 +1,9 @@
+patient_id,id,type,name,doseCode,doseValue,doseUnits,doseQuantity,douseRoute,Sig,prescriberID,date
+1,1,anticoagulant,warfarin,completed,3,mg,30,by mouth,1 po daily,2222,01/01/2011
+1,2,anticoagulant,warfarin,completed,3,mg,30,by mouth,1 po daily,2222,01/01/2012
+1,3,anticoagulant,warfarin,completed,3,mg,30,by mouth,1 po daily,2222,01/01/2013
+1,4,anticoagulant,warfarin,completed,3,mg,30,by mouth,1 po daily,2222,01/01/2014
+2,5,analgesic,hydrocodone,completed,5,mg,120,by mouth,1-2 po q 4-6 h prn,3333,02/15/2014
+1,6,antibiotic,amoxicillin,completed,120,mg,60,by mouth,1 po bid,1111,11/06/2014
+1,7,anticoagulant,warfarin,in progress,3,mg,30,by mouth,1 po daily,2222,01/01/2015
+5,8,anticoagulant,warfarin,in progress,5,mg,30,by mouth,1 po daily,4444,01/01/2015

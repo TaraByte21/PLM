@@ -1,0 +1,5 @@
+pID,SSN,nameLast,nameFirst,dob,gender,phoneNo,street,city,state,zip,country,maritalStauts,language
+000000000001,111-11-1111,Corona,Joshua,1977-08-08,male,111-111-1111,"123 E 1st St.",Corvallis,OR,97333,USA,single,english
+000000000002,222-22-2222,Bella,Calista,1962-06-11,female,222-222-2222,"123 E 2nd St.",Corvallis,OR,97333,USA,married,english
+000000000003,333-33-3333,Kyle,Selina,1940-07-12,female,333-333-3333,"123 E 3rd St.",Corvallis,OR,97333,USA,single,english
+000000000004,444-44-4444,Kerr,Joe,1932-11-06,male,444-444-4444,"123 E 4th St.",Corvallis,OR,97333,USA,married,english

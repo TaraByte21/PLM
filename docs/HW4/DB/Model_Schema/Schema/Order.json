@@ -1,0 +1,43 @@
+{
+  "when" : {
+    "schedule" : {
+      "event" : [
+        {
+          "start" : "2005-01-01T01:01:01.0000000"
+        }
+      ]
+    }
+  },
+  "source" : {
+    "reference" : "/",
+    "display" : "patient, patient p"
+  },
+  "identifier" : [
+    {
+      "use" : "official",
+      "value" : "123_1234567_123456789^ICC-EO_123456789^ICC-EO"
+    }
+  ],
+  "extension" : [
+    {
+      "url" : "http://ease.mayo.edu/#orderGroup",
+      "valueString" : "MED"
+    },
+    {
+      "url" : "http://ease.mayo.edu/#orderType",
+      "valueString" : "RX"
+    },
+    {
+      "url" : "http://ease.mayo.edu/#orderSubType",
+      "valueString" : "RX"
+    },
+    {
+      "url" : "http://ease.mayo.edu/#orderStatus"
+    }
+  ],
+  "resourceType" : "Order",
+  "subject" : {
+    "reference" : "Patient/1234567"
+  },
+  "date" : "2000-01-01T01:01:01.0000000"
+}

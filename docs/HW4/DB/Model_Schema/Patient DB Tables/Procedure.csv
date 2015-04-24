@@ -1,0 +1,7 @@
+p_id,procedure_id,date,bodySite,type,variable,units,outcome,completed
+1,1,1/1/15 3:01,Colorectal,SURGERY,NULL,NULL,complication,TRUE
+2,2,3/7/15 7:01,Colorectal,SURGERY,NULL,NULL,success,TRUE
+3,3,3/12/15 7:01,Colorectal,SURGERY,NULL,NULL,complication,TRUE
+4,4,4/1/15 7:01,Colorectal,SURGERY,NULL,NULL,success,TRUE
+5,5,1/1/15 0:00,Colorectal,SURGERY,NULL,NULL,success,TRUE
+5,6,1/2/15 0:00,subq,Transfusion,1,unit,NULL,TRUE

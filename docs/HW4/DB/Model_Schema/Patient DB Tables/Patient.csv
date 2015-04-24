@@ -1,0 +1,6 @@
+id,SSN,nameFamily,nameGiven,gender,birthdate,race,street,city,state,zip,country,languague,maritialStatus
+1,111-11-1111,Corona,Joshua,Male,8/8/77,Caucasian,123 E 1st St.,Corvallis,OR,97333,USA,english,single
+2,222-22-2222,Bella,Calista,Female,6/11/62,Other,123 E 2nd St.,Corvallis,OR,97333,USA,english,married
+3,333-33-3333,Kyle,Selina,Female,7/12/40,Hispanic,123 E 3rd St.,Corvallis,OR,97333,USA,english,single
+4,444-44-4444,Kerr,Joe,Male,11/6/32,Caucasian,123 E 4th St.,Corvallis,OR,97333,USA,english,married
+5,555-55-5555,Wayne,Bruce,Male,1/1/85,Caucasian,124 E 5th St.,Corvallis,OR,97333,USA,english,married

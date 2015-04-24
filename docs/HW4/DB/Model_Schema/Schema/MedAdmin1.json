@@ -1,0 +1,47 @@
+{
+  "dosage" : [
+    {
+      "site" : {
+        "text" : "E012345H"
+      },
+      "quantity" : {
+        "value" : 0,
+        "code" :      2.000,
+        "units" : "GM"
+      },
+      "timingPeriod" : {
+        "end" : "1/1/2000 1:01:00 PM",
+        "start" : "1/1/2000 1:01:00 PM"
+      },
+      "route" : {
+        "text" : "IV"
+      }
+    }
+  ],
+  "resourceType" : "MedicationAdministration",
+  "whenGiven" : {
+    "end" : "1/1/2000 1:01:00 PM",
+    "start" : "1/1/2000 1:01:00 PM"
+  },
+  "status" : "completed",
+  "prescription" : {
+    "reference" : "http://mayo/ease/componentid/12345678",
+    "display" : "CEFAZOLIN 2 GM/10 ML SYRINGE"
+  },
+  "identifier" : [
+    {
+      "use" : "official",
+      "value" : "123_1234567_1234_1234_1_1"
+    }
+  ],
+  "patient" : {
+    "reference" : "Patient/1234567"
+  },
+  "medication" : {
+    "display" : "CEFAZOLIN 2 GM/10 ML SYRINGE"
+  },
+  "practitioner" : {
+    "reference" : "/",
+    "display" : "doctor, doctor d"
+  }
+}
